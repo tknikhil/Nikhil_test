@@ -1,0 +1,8 @@
+To Start Project in Swagger
+
+http://localhost:8080/swagger-ui/index.html
+
+request-controller
+
+in order to execute get/post method click on "Try it out" button 
+fill the credential and then press the "Execute" button
